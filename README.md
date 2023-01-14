@@ -57,5 +57,3 @@
 
 <img src="https://raw.githubusercontent.com/andisltn48/andisltn48/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
